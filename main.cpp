@@ -4,7 +4,6 @@ using namespace std;
 
 int main() {
     int n=0;
-    cout << "inserire la dimensione dell'array:" << endl;
     cin >> n;
 
     float A[n];
